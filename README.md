@@ -17,42 +17,13 @@
   [![X](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/WilkenDev)
 
 </div>
-
 <br>
-
 <div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=wgclassen&show_icons=true&count_private=true&rank_icon=github&theme=synthwave&font=Iosevka"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgclassen&layout=compact&font=Iosevka&langs_count=16&theme=synthwave"
-  />
-  <br>
-  <br>
   <img
     align="center"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wgclassen&theme=synthwave"
   />
-  <br>
-  <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=wgclassen&theme=synthwave&card_width=885"
-  />
   </div>
-  <br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwgclassen&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta="/></p> 
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f05138,100:e5289e&section=footer"/>
 
