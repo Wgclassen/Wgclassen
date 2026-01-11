@@ -18,12 +18,5 @@
 
 </div>
 <br>
-<div align="center">
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wgclassen&theme=synthwave"
-  />
-  </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f05138,100:e5289e&section=footer"/>
 
